@@ -7,5 +7,4 @@
 * [uBot System Diagram](ubot-system-diagram.md)
 * [Sphere Coms](sphere-coms.md)
 * [Ultranet Open Lab](ultranet-open-lab.md)
-* [Untitled](untitled-1.md)
 
