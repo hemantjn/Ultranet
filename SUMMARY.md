@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [What is Ultranet?](what-is-ultranet.md)
 * [Ultranet - Decentralized Internet](ultranet.md)
 * [Ultranet vs Internet](ultranet-vs-internet.md)
 * [Ultranet Era](the-ultranet-era.md)
