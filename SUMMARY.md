@@ -4,7 +4,7 @@
 * [Ultranet - Decentralized Internet](ultranet.md)
 * [Ultranet vs Internet](ultranet-vs-internet.md)
 * [Ultranet Era](the-ultranet-era.md)
-* [Core of Ultranet](sync-and-async-reliable-transport.md)
+* [At the Core](sync-and-async-reliable-transport.md)
 * [xRPC vs gRPC vs REST](xrpc-vs-grpc-vs-rest.md)
 * [Ultranet Ecosystem](ultranet-ecosystem.md)
 * [Ultranet Working Space](ultranet-working-space.md)
