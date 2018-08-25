@@ -9,8 +9,12 @@
 * [Ultranet Working Space](ultranet-working-space.md)
 * [Ultranet Ecosystem](ultranet-ecosystem.md)
 * [MoteMsgCloud](untitled-1.md)
+* [MoteMsgCloud](motemsgcloud.md)
+* [MoteMsgCloud](motemsgcloud-1.md)
+* [Edge Intelligence](edge-intelligence.md)
 * [Top-10 uApp](ultranet-top-10-apps.md)
 * [uBot Elements](ubot-system-diagram.md)
 * [Sphere Elements](sphere-coms.md)
 * [Ultranet Open Lab](ultranet-open-lab.md)
+* [Mote](mote.md)
 
