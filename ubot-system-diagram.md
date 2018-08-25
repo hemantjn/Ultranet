@@ -1,8 +1,8 @@
 ---
-description: uBot elements
+description: uBot.snap
 ---
 
-# uBot Elements
+# uBot.snap
 
 ![](.gitbook/assets/ult_5.png)
 

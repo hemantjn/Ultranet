@@ -1,8 +1,8 @@
 ---
-description: Sphere elements
+description: Sphere.snap
 ---
 
-# Sphere Elements
+# Sphere.snap
 
 ![](.gitbook/assets/ult_6.png)
 
